@@ -1,0 +1,17 @@
+{
+  "name": "@tanerax/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared TypeScript config for my projects",
+  "repository": "github.com/tanerax/tsconfig",
+  "author": {
+    "name": "Charles Murray",
+    "email": "me@tanerax.com",
+    "url": "https://tanerax.com"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "files": [
+    "tsconfig.json"
+  ]
+}
