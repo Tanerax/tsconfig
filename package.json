@@ -8,8 +8,9 @@
     "email": "me@tanerax.com",
     "url": "https://tanerax.com"
   },
+  "main": "tsconfig.json",
   "engines": {
-    "node": ">=6"
+    "node": ">=10"
   },
   "files": [
     "tsconfig.json"
